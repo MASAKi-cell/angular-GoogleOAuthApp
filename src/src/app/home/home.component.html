@@ -1,0 +1,12 @@
+<h2 *ngIf="!name">
+    Hello
+</h2>
+<h3 *ngIf="name">
+    Hello,your Name: {{name}}, e-mail: {{email}}
+</h3>
+<p ngIf="token">
+    Token: {{token}}
+</p>
+
+<button (click)="login()">ログイン</button>
+<button (click)="logout()">ログアウト</button>
