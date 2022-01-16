@@ -4,6 +4,6 @@
 AngularでGoogle OAuth認証を実装する。
 
 ■ 使用技術
-フロントエンド： TypeScrip、Angular、JavaScript、HTML、Sass
+フロントエンド： TypeScrip、Angular、JavaScript、HTML、Scss
 
 ■ バージョン
